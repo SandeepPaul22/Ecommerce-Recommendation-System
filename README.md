@@ -1,4 +1,4 @@
-# E-Commerece-Recommendation-System-Machine-Learning-Product-Recommendation-system-
+# E-Commerece-Recommendation-System-Using-Machine-Learning
 
 Building an E-Commerce Recommendation System with Flask and Machine Learning
 
